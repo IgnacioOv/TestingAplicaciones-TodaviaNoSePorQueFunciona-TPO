@@ -1,4 +1,4 @@
-# tp-testing-aplicaciones
+# Testing de aplicaciones: Trabajo practico obligatorio
 
 ## Nombre del grupo
   - Todavia no se por que funciona
