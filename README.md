@@ -1,5 +1,9 @@
 # Testing de aplicaciones: Trabajo practico obligatorio
 
+## Archivo google docs Sprint 1:
+  - https://docs.google.com/document/d/1d1GOH9js9FqnJZ99JwHkQD007BQxzgGa748mcXl-cF4/edit
+
+
 ## Nombre del grupo
   - Todavia no se por que funciona
 
