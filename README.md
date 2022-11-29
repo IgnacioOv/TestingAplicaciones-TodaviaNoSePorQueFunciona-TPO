@@ -6,7 +6,7 @@
 ## Archivo excel con requerimientos/casos de uso/pasos/bugs 
   - https://docs.google.com/spreadsheets/d/1Q8qqLWQLlmya-mFo73lq7cXmUoYTEmSq/edit?usp=sharing&ouid=112128421853574459342&rtpof=true&sd=true
 
-## Resumenes semanales
+## Informe general final
   - https://docs.google.com/document/d/1YUWFRpdOgsM8Zk4Kw34shSZRf2AP7P04IaRkQ58nzvs/edit
 
 
